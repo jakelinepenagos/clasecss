@@ -1,0 +1,17 @@
+p{
+    font-size: 35px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    color:#A5A4EB;
+    text-align: center;
+  
+}
+main{
+    background-color: aquamarine;
+}
+header{
+ background: fuchsia;
+}
+footer{
+    background-color: gold;
+}

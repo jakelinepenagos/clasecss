@@ -10,8 +10,20 @@ main{
     background-color: aquamarine;
 }
 header{
- background: fuchsia;
+ background-color: honeydew ;
 }
 footer{
-    background-color: gold;
+    background-color: honeydew;
+}
+body{
+    background-image:url(https://ep01.epimg.net/elcomidista/imagenes/2016/10/28/articulo/1477643106_484647_1477643397_media_normal.jpg) ;
+}
+.parrafo1{
+    font-size: 50px;
+    color: indigo;
+    font-family:Impact ;
+    text-align: left;
+}
+.parrafo2{
+    color: lawngreen;
 }
